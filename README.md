@@ -2,12 +2,12 @@
 
  ![preview](./.github/preview.png)
  
- - Landing Page para uma Plataforma de Estudos
+ - Landing Page para uma Cafeteria
 
  - Projeto construído durante o curso PROPROFISSÃO.
 
 ## Acesso
- [Clique aqui para acessar! :)](https://1fellype.github.io/Learning/)
+ [Clique aqui para acessar! :)](https://1fellype.github.io/Coffee/)
 
 ## Tecnologias
 
